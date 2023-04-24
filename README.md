@@ -4,7 +4,7 @@
 >
 > ## About me
 >
-Hi, I am a student of [Indian Institute of Technology, Goa](https://iitgoa.ac.in/), and I'm interested in Web Development and CP. I have experience in Python, HTML, CSS & Javascript. In my free time, I enjoy playing cricket, watching movies, playing online games, travelling and so on.
+Hi, I am a student of [Indian Institute of Technology, Goa](https://iitgoa.ac.in/), and I'm interested in Web Development and CP. I have experience in **Python, HTML, CSS** & **Javascript**. In my free time, I enjoy playing cricket, watching movies, playing online games, travelling and so on.
 
 >
 > ## Education
@@ -25,6 +25,6 @@ Hi, I am a student of [Indian Institute of Technology, Goa](https://iitgoa.ac.in
   
 
 
-  
+
 
 Copyright &copy; 2023 AnilPatel's Personal webpage
