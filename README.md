@@ -35,6 +35,6 @@ Hi, I am a student of [Indian Institute of Technology, Goa](https://iitgoa.ac.in
 
 
 
-Copyright &copy; 2023 AnilPatel's Personal webpage
+Copyright &copy; 2023 AnilPatel7636.github.io.  All rights reserved!
 
 ******
