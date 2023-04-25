@@ -10,17 +10,28 @@ Hi, I am a student of [Indian Institute of Technology, Goa](https://iitgoa.ac.in
 
 >
 > ## Education
->
-- **B. Tech.** Indian Institute of Technology, Goa, India (2022-) 
+| Academic year | Standard | school name |
+|---------------|----------|-------------|
+| 2019-2020     | 10th     |JNV Jodhpur  |
+| 2021-2022     | 12th     |JNV Jodhpur  |
   
 ******
 
 >
-> ## Projects
->
-........Coming Soon.........
+> ## Course @ IIT-Goa
+
+- [CS](https://clintpgeorge.github.io/cs-102/spring-2023/)  **102**  *Clint P. George*
+- MA  **102/103** *Saumya Bajpai*
+- PH  **102** *Santosh Kumar*
+
 
 ******
+
+> ## Hobies & Interests
+- playing cricket
+- watching movies
+- playing gta5
+- travelling
 
 >
 > ## Contact me @
